@@ -10,3 +10,4 @@
 4. [Convolutional sequence to sequence learning](https://arxiv.org/pdf/1705.03122.pdf)
 5. [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 6. [One Model To Learn Then All](https://arxiv.org/pdf/1706.05137.pdf)
+7. [Optimization for Statistical Machine Translation: A Survey](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00241)
