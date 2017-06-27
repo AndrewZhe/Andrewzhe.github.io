@@ -1,6 +1,7 @@
 # Machine Translation
 
-## Yitao Cai, Quzhe Huang, Sheng Huang, Yingcheng Liu
+### Yitao Cai, Quzhe Huang, Sheng Huang, Yingcheng Liu
+
 
 ### Paper List
 1. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf)
