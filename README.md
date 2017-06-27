@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Machine Translation
 
-You can use the [editor on GitHub](https://github.com/AndrewZhe/AndrewZhe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Yitao Cai, Quzhe Huang, Sheng Huang, Yingcheng Liu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-List
+1. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://www.aclweb.org/anthology/P/P02/P02-1040.pdf)
+2. [Sequence to sequence learning with neural networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+3. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+4. [Convolutional sequence to sequence learning](https://arxiv.org/pdf/1705.03122.pdf)
+5. [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndrewZhe/AndrewZhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
